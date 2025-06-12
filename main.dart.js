@@ -52357,7 +52357,7 @@ s!==$&&A.a5()
 s=q.w=new A.a_T(q,r)}s.a.t(0,"Hello!")},
 pt(){var s=0,r=A.Q(t.H),q=this,p
 var $async$pt=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:p=A.acR(A.a1N(A.iS("ws://192.168.4.1:81"),null))
+while(true)switch(s){case 0:p=A.acR(A.a1N(A.iS("wss://192.168.4.1:81"),null))
 q.f=p
 s=2
 return A.V(p.f.a,$async$pt)
